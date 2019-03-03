@@ -1,3 +1,14 @@
+---
+title: filebeat-install
+date: 2018-12-25 17:29:53
+categories:
+- filebeat
+tags:
+- filebeat
+- install
+- elk
+---
+
 ```sh
 [root@Apache ~]# cd /usr/local/filebeat/
 [root@Apache filebeat]# ls

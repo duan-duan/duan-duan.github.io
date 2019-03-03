@@ -1,3 +1,13 @@
+---
+title: Springboot 日志
+date: 2019-01-09 23:29:53
+categories:
+- Springboot
+tags:
+- 日志
+- Springboot
+---
+
 ### 启动方式1：
 
 java -jar app.jar 前台启动
@@ -132,11 +142,3 @@ fi
  chmod +x app.sh
 
 之后使用./app.sh start/stop等命令启动即可
-
-作者：蓝胖子CC7
-
-链接：https://www.jianshu.com/p/717afc0e1708
-
-來源：简书
-
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
